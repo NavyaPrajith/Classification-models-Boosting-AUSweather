@@ -1,0 +1,5 @@
+This project delves into the realm of weather prediction by exploring the application of classification models and boosting techniques on Australian weather data. The dataset contains various meteorological features such as temperature, humidity, wind speed, and precipitation, alongside labels indicating different weather conditions.
+
+The classification models employed in this project include **decision tree, random forest, and logistic regression**. Each model is trained on the weather dataset to predict weather conditions based on the input features. Additionally, three types of boosting techniques—**AdaBoost, Gradient Boosting, and XGBoost**—are utilized to further enhance the predictive performance of the models.
+
+The primary objective of this project is to compare the performance of different classification models and boosting techniques in predicting weather patterns accurately. Evaluation metrics such as accuracy, precision, recall, and F1-score are computed for each model and boosting method to assess their effectiveness in weather prediction tasks.
